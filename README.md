@@ -62,11 +62,12 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 **Integrated Development Environments (IDEs) Importance:** IDEs streamline the development process by integrating essential tools like code editors, debuggers, and compilers into a single interface. This enhances productivity, improves code quality, and simplifies debugging.  
 **Examples:**   
 1. Visual Studio Code
-2. IntelliJ IDEA  
+2. IntelliJ IDEA.
+
 **Version Control Systems (VCS) Importance:** VCS manage changes to source code over time, enabling collaboration, tracking revisions, and maintaining code integrity3. They are crucial for team-based development and continuous integration.  
 **Examples:**  
 1. Git
-2. Subversion (SVN)
+2. Subversion (SVN).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.  
 **Answer**   
