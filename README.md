@@ -4,22 +4,22 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.   
-###Answer  
--A. Software engineering is the systematic approach to designing, developing, testing, and maintaining software systems1. It combines principles from computer science and engineering to create reliable and efficient software solution
+**Answer**  
+A. Software engineering is the systematic approach to designing, developing, testing, and maintaining software systems1. It combines principles from computer science and engineering to create reliable and efficient software solution
 
--B. Importance in the technology industry:
+B. Importance in the technology industry:
 Innovation: Drives advancements in AI, machine learning, and other cutting-edge technologies.
 Efficiency: Enhances productivity by automating tasks and optimizing processes.
 Reliability: Ensures software is robust, scalable, and meets user needs
 
 Identify and describe at least three key milestones in the evolution of software engineering.   
-###Answer   
+**Answer**   
 1. 1968 NATO Conference: The term “software engineering” was officially coined during this conference, marking the beginning of recognizing software development as an engineering discipline.
 2. Introduction of Object-Oriented Programming (OOP): In the 1980s, OOP revolutionized software design by promoting modularity and reusability, making software development more efficient and manageable.
 3. Agile Methodologies: Emerging in the 1990s, Agile methodologies emphasized flexibility, collaboration, and customer feedback, significantly improving the adaptability and responsiveness of software development processes
 
 List and briefly explain the phases of the Software Development Life Cycle.   
-###Answer   
+**Answer**   
 1. Planning & Analysis: Identify project goals, gather requirements, and assess feasibility.
 2. Requirements Gathering: Document detailed software requirements based on stakeholder needs.
 3. Design: Create architectural and detailed design plans for the software.
@@ -29,7 +29,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7. Maintenance: Provide ongoing support, fix issues, and update the software as needed
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.  
-###Answer     
+**Answer**     
 | Feature/Aspect       | Waterfall Methodology                                                                 | Agile Methodology                                                                 |
 |----------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | **Process**          | Sequential, linear approach                                                           | Iterative, cyclical approach                                                      |
@@ -38,7 +38,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 | **Appropriate For**  | Projects with well-defined requirements and low likelihood of changes (e.g., construction projects, government contracts) | Projects with evolving requirements and a need for rapid delivery (e.g., software development, startups) |
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.   
-###Answer     
+**Answer**     
 **Software Developer** Roles and Responsibilities:
 Write, test, and maintain code. 
 Implement software solutions based on design specifications
@@ -58,7 +58,7 @@ Ensure project goals are met.
 Key Skills: Leadership, communication, time management, and risk management   
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.   
-###Answer   
+**Answer**   
 **Integrated Development Environments (IDEs) Importance:** IDEs streamline the development process by integrating essential tools like code editors, debuggers, and compilers into a single interface. This enhances productivity, improves code quality, and simplifies debugging.  
 **Examples:**   
 1. Visual Studio Code
@@ -69,7 +69,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 2. Subversion (SVN)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.  
-###Answer   
+**Answer**   
 **Rapid Advancement of Technology:**  
 Challenge: Keeping up with new programming languages, frameworks, and tools.  
 Strategy: Embrace continuous learning through online courses, workshops, and staying active in tech communities.  
@@ -88,7 +88,7 @@ Strategy: Foster a culture of open communication, use collaboration tools like S
  regular meetings to ensure alignment  
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.  
-###Answer  
+**Answer**  
 **Unit Testing:** Tests individual components or functions in isolation to ensure they work correctly.  
 Importance of Unit Testing: Helps catch bugs early in the development process, making it easier to fix issues before they affect other parts of the system.  
 **Integration Testing:** Tests the interaction between integrated components to ensure they work together as expected.
@@ -102,7 +102,7 @@ Importance of Acceptance Testing: Confirms that the software is ready for deploy
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.  
-###Answer  
+**Answer**  
 **Definition**  
 Prompt engineering is the process of designing and refining prompts to guide generative AI models in producing desired outputs. It involves crafting specific input texts that help AI understand the context, intent, and nuances of a query.  
 
@@ -113,7 +113,7 @@ Efficiency: Reduces the need for manual adjustments and post-processing, saving 
 User Experience: Enhances the interaction between users and AI, making the outputs more meaningful and coherent.    
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.  
-###Answer  
+**Answer**  
 **Vague Prompt**  
 “Tell me about software.”  
 
